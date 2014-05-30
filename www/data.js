@@ -9,4 +9,4 @@ var data = {
         cordova.exec((scbf || noop), (ecbf || noop),"DataPlugin","get",[key]);
     }
 }
-module.exports = cordova;
+module.exports = data;
