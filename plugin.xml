@@ -10,7 +10,7 @@
 
 
     <js-module src="www/data.js" name="DataPlugin">
-        <clobbers target="klg.data" />
+        <clobbers target="KLG.plugins.data" />
     </js-module>
 
     <!-- android -->
